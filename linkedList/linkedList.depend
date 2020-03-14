@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1578736982 source:/home/indrawan/Documents/Programming/C++/linkedList/linkedList.cpp
+	"linkedList.h"
+
+1578736769 /home/indrawan/Documents/Programming/C++/linkedList/linkedList.h
+	<iostream>
+
+1578736849 source:/home/indrawan/Documents/Programming/C++/linkedList/main.cpp
+	<iostream>
+	"linkedList.h"
+

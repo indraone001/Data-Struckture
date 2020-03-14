@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1514140574 source:d:\all about study\all about it\pemograman\c++\latihan 1\stackarr\main.cpp
+	<iostream>
+
+1556971700 source:d:\all about study\all about it\pemograman\c++\latihan 1\stackarr\stack.cpp
+	"stack.h"
+
+1556971758 d:\all about study\all about it\pemograman\c++\latihan 1\stackarr\stack.h
+	<iostream>
+

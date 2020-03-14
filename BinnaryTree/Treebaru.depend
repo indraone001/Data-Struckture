@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556168218 source:d:\all about study\all about it\pemograman\c++\latihan 1\treebaru\tree.cpp
+	"Tree.h"
+
+1556168236 d:\all about study\all about it\pemograman\c++\latihan 1\treebaru\tree.h
+	<iostream>
+
+1556168300 source:d:\all about study\all about it\pemograman\c++\latihan 1\treebaru\main.cpp
+	<iostream>
+	"Tree.h"
+

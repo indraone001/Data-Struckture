@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1553359977 source:d:\all about study\all about it\pemograman\c++\tp modul\tp mod 6\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1553360099 d:\all about study\all about it\pemograman\c++\tp modul\tp mod 6\stack\stack.h
+	<iostream>
+
+1553361312 source:d:\all about study\all about it\pemograman\c++\tp modul\tp mod 6\stack\stack.cpp
+	"stack.h"
+

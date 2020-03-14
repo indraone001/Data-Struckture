@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1557645622 source:d:\all about study\all about it\pemograman\c++\latihan 1\uas\queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1557642334 d:\all about study\all about it\pemograman\c++\latihan 1\uas\queue\queue.h
+	<iostream>
+
+1557645793 source:d:\all about study\all about it\pemograman\c++\latihan 1\uas\queue\queue.cpp
+	"Queue.h"
+
+1557646857 source:d:\all about study\all about it\pemograman\c++\latihan 1\uas\circularqueue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1557646857 d:\all about study\all about it\pemograman\c++\latihan 1\uas\circularqueue\queue.h
+	<iostream>
+
